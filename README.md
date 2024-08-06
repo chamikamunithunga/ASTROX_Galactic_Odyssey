@@ -45,12 +45,12 @@ JavaScript: For adding interactivity and dynamic features.
 License
 --------
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. 
 
 Contact
 --------
 
-For any inquiries or further information, please contact us at email@example.com.
+For any inquiries or further information, please contact us at chamikamunithunga140@gmail.com
 
 
 
